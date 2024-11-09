@@ -44,3 +44,10 @@ build/
 
 !.idea/**
 /.idea/
+!/.idea/codeStyles/codeStyleConfig.xml
+!/.idea/codeStyles/Project.xml
+!/.idea/vcs.xml
+
+!/.idea/kotlinc.xml
+
+!/.idea/encodings.xml
